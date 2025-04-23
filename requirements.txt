@@ -1,0 +1,9 @@
+tensorflow>=2.0.0
+numpy
+scikit-learn
+nltk
+pandas
+streamlit
+toml
+matplotlib
+joblib
